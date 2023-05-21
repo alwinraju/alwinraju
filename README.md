@@ -37,8 +37,6 @@ Tools
 
 ## 📩 Connect With Me 
 
-I frequently write blog posts on Medium and would love to connect on LinkedIn:
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alwinraju)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwinraju/)
 
