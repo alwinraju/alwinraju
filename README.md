@@ -41,5 +41,6 @@ Tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwinraju/)
 
 ## 📈 Github Summary
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alwinraju&theme=dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alwinraju&hide=stars&show_icons=true&theme=transparent) -->
+![](https://github-readme-stats.vercel.app/api?username=alwinraju&hide=stars&show_icons=true&theme=transparent&hide_rank=true&count_private=true&include_all_commits=true&hide_title=true&text_color=FFFFFF&&bg_color=0e1115&icon_color=53b4e8&hide_border=true&disable_animations=true)
 
