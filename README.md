@@ -1,6 +1,6 @@
 # <img src="wave.gif" width="30px"> Hello, I'm Alwin 
 
-As a Senior Clinical Informatics Pharmacist, I specialize in data science and data analysis, leveraging my domain expertise to analyze large datasets and derive insights that guide software design, improve clinician workflows, and ultimately enhance user experience and patient outcomes.
+I specialize in data science and data analysis, leveraging my domain expertise to analyze large datasets and derive insights that guide software design, improve clinician workflows, and ultimately enhance user experience and patient outcomes.
 
 ## 🤝 I'm Looking to Collaborate on...
 
